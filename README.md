@@ -11,6 +11,9 @@ cd Nethunter-Audiofix
 
 chmod +x Audiofix
 
+bash Audiofix start   # To Start
+
+bash Audiofix stop    # To Stop
 
 
 
