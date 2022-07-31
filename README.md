@@ -1,19 +1,16 @@
-# Download
+# Kali Nethunter (Sound Fix) 
 Nethunter Audiofix / Audio player apk : https://cutt.ly/DLNbFFs
-
+-------------------------------------------
 # Usages:
 
-`cd /home/kali/Desktop`
+` cd && cd /home/kali/Desktop && git clone https://github.com/sezanX/Nethunter-Audiofix && cd Nethunter-Audiofix && chmod +x Audiofix `
 
-`git clone https://github.com/sezanX/Nethunter-Audiofix `
+-------------------------------------------
+# sᴛᴀʀᴛ
+` cd && cd Desktop/Nethunter-Audiofix/ && bash Audiofix start `
+# sᴛᴏᴘ
+` cd && cd Desktop/Nethunter-Audiofix/ && bash Audiofix stop ` 
 
-`cd Nethunter-Audiofix `
+-------------------------------------------
 
-`chmod +x Audiofix`
-
- ` bash Audiofix start  `  # To Start
-
-`bash Audiofix stop  `  # To Stop
-
-
-
+# Tutorial https://cutt.ly/NZvxT5P
